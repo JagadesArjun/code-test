@@ -1,0 +1,11 @@
+Summary: Simple shopping cart applications.
+
+Feature need to be added:
+1. Add thumbnail to products.
+    - Download the image by clicking(using Javascript)
+
+Bugs in code:
+1. Products are not listing, API works fine.
+1. Add to cart is not working.
+2. Quantity is not reduced when item is added to cart.
+3. Fix the unit test which are all failing.
